@@ -1,0 +1,164 @@
+*{
+ padding: 0;
+ margin: 0;
+ box-sizing: border-box;
+}
+body{
+
+}
+.container{
+  width: 1200px;
+  height: 1000px;
+  /* background-color: #5289a4; */
+  margin-left: auto;
+  margin-right: auto;
+}
+.navigation{
+  text-align: center;
+}
+.navigation nav{
+  display: inline-flex;
+}
+
+.navigation nav ul{
+
+list-style: none;
+
+padding: 15px;
+
+background-color: #799dcdd1;
+}
+
+.navigation nav ul li{
+}
+.banner{
+  width: 100%;
+  height: 400px
+  ;display: inline-block;
+}
+.banner img{
+  height: 100%;
+  width: 100%;
+  background-size:cover;
+}
+.photodiary{
+
+height: 200px;
+
+background-color: grey;
+
+padding-left: 10px;
+}
+.photodiary h4{
+
+height: 30px;
+
+font-family: cursive;
+
+color: azure;
+}
+.photodiary h2{
+
+font-family: cursive;
+
+color: #cad5d5;
+
+height: 50px;
+}
+.photodiary p{
+
+font-family: cursive;
+
+color: #dbe5e5;
+}
+.lifestyle{
+  height: 620px;
+  width: 800px;
+  margin-right: auto;
+  margin-left: auto;
+  padding-top: 10px;
+}
+.styles{
+height: 300px;
+float: left;
+width: 50%;
+border: 1px solid #89898f;
+border-radius: 25px;
+}
+.styles img{
+    width: 100%;
+    height: 65%;
+    border-radius: 25px;
+}
+.styles h3{
+padding: 5px;
+}
+.styles p{
+    padding: 5px;
+}
+.styles2{
+  height: 300px;
+  float: left;
+  width: 50%;
+  border: 1px solid #89898f;
+  border-radius: 25px;
+}
+.styles2 img{
+  width: 100%;
+  height: 65%;
+  border-radius: 25px;
+}
+.styles2 h3{
+padding: 5px;
+}
+.styles2 p{
+padding: 5px;
+}
+.wall{
+
+height: 150px;
+
+background-color: grey;
+
+border-radius: 25px;
+}
+.wall h4{
+text-align: center;
+padding-top: 10px;
+font-size: 30px;
+font-style: oblique;
+}
+.wall h5 {
+  text-align: center;
+  padding-top: 10px;
+  font-size: 15px;
+  font-style: inherit;
+}
+.wall u{
+  width: 50%;
+}
+.lifestyle2{
+  height: 620px;
+  width: 800px;
+  margin-right: auto;
+  margin-left: auto;
+  padding-top: 10px;
+}
+.stl{
+height: 300px;
+float: left;
+width: 50%;
+border: 1px solid #89898f;
+border-radius: 25px;
+}
+.stl img{
+    width: 100%;
+    height: 65%;
+    border-radius: 25px;
+}
+.stl h3{
+padding: 5px;
+}
+.stl p{
+    padding: 5px;
+}
